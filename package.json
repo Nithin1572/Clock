@@ -1,7 +1,6 @@
 {
   "name": "logic",
   "version": "1.0.0",
-  "description": "",
   "main": "logic.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,10 @@
     "package"
   ],
   "author": "unknown",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "simple clock",
+  "repository": {
+    "type": "git",
+    "url": "Nithin1572"
+  }
 }
